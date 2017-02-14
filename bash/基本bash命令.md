@@ -1,6 +1,5 @@
 # bash shell
 
-@[shell, bash]
 
 -------------------
 
